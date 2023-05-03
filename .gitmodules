@@ -1,0 +1,3 @@
+[submodule "src/submodules/ClangSharp"]
+	path = src/submodules/ClangSharp
+	url = D:\\Windows\\ClangSharp
