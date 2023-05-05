@@ -1550,6 +1550,8 @@ namespace Silk.NET.Vulkan
         PhysicalDeviceMultiviewPerViewRenderAreasFeaturesQCom = 1000510000,
         [NativeName("Name", "VK_STRUCTURE_TYPE_MULTIVIEW_PER_VIEW_RENDER_AREAS_RENDER_PASS_BEGIN_INFO_QCOM")]
         MultiviewPerViewRenderAreasRenderPassBeginInfoQCom = 1000510001,
+        [NativeName("Name", "VK_STRUCTURE_TYPE_PHYSICAL_DEVICE_ATTACHMENT_FEEDBACK_LOOP_DYNAMIC_STATE_FEATURES_EXT")]
+        PhysicalDeviceAttachmentFeedbackLoopDynamicStateFeaturesExt = 1000524000,
         [NativeName("Name", "VK_STRUCTURE_TYPE_PHYSICAL_DEVICE_SUBGROUP_PROPERTIES")]
         PhysicalDeviceSubgroupProperties = 1000094000,
         [NativeName("Name", "VK_STRUCTURE_TYPE_BIND_BUFFER_MEMORY_INFO")]
